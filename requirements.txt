@@ -1,5 +1,8 @@
+fyers-apiv2
 pandas
 numpy
+pandas-ta
 requests
+python-dateutil
 schedule
-fyers-apiv2
+pytz
