@@ -1,8 +1,7 @@
-fyers-apiv2
-pandas
-numpy
-pandas-ta
-requests
-python-dateutil
-schedule
-pytz
+fyers-apiv2==2.0.9
+pandas==2.2.3
+numpy==1.26.4
+requests==2.32.3
+python-dotenv==1.0.1
+schedule==1.2.2
+ta==0.11.0
